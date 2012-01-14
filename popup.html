@@ -1,0 +1,85 @@
+<style>
+body {
+  min-width:        357px;
+  overflow-x:       hidden;
+  font-family:      Helvetica, Arial, sans-serif;
+  background-color: #eee;
+}
+
+#message {
+  background-color: green;
+  color:            white;
+  padding:          0px;
+}
+
+</style>
+
+
+<script type="text/javascript" src="urls.json"></script>
+<script>
+
+/*
+  Socitm privacy policy explains which cookies are used:
+  
+  http://socitm.govmetric.com/privacy/default.aspx
+
+  Opt-out cookie is called socitm_exclude_meN where N is the version number of the survey (currently 9).
+  
+*/
+
+function blockSurveys() {
+
+  document.getElementById("message").innerText = "Blocking...";
+
+  for (var i = 0; i < urls.length; i++) {
+  
+    document.getElementById("message").innerText = "In blocking loop... " + urls[i]['domain'];
+
+    chrome.cookies.set({
+      "url": urls[i]['url'],
+      "name": "socitm_exclude_me9",
+      "value": "true",
+      "domain": urls[i]['domain'],
+      "expirationDate": (new Date().getTime()/1000) + 2 * 365 * 24 * 60 * 60 // 2 years
+    });
+    
+  }
+
+  document.getElementById("message").innerText = urls.length.toString() + " surveys blocked OK";
+}
+
+function unblockSurveys() {
+  for (var i = 0; i < urls.length; i++) {
+    chrome.cookies.remove({
+      "url": urls[i]['url'],
+      "name": "socitm_exclude_me9"
+    });
+  }
+  
+  document.getElementById("message").innerText = urls.length.toString() + " surveys unblocked OK";
+}
+
+</script>
+
+<h1>Socitm survey opt-out</h1>
+
+<p>Block or unblock all the Socitm Better Connected website survey pop-ups that appear when you visit UK local government homepages.</p>
+
+<p>This extension will set an opt-out cookie for every UK council with your preference.</p>
+
+<p>You can re-enable surveys on individual council websites by deleting the relevant opt-out cookie through your browser preferences.</p>
+
+<p id="message"></p>
+
+<p>
+  <input type="button" value="Block all surveys" onclick="blockSurveys();" />
+  <input type="button" value="Unblock all surveys" onclick="unblockSurveys();" />
+</p>
+
+<p>
+  <small>Designed by Adrian Short
+    <br />twitter.com/adrianshort
+    <br />adrian@adrianshort.co.uk
+    <br />This extension is not endorsed by Socitm or anyone else.
+  </small>
+</p>

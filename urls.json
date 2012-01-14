@@ -1,0 +1,1738 @@
+urls = [
+  {
+    "url": "http://www.aberdeencity.gov.uk/",
+    "domain": "www.aberdeencity.gov.uk"
+  },
+  {
+    "url": "http://www.aberdeenshire.gov.uk/",
+    "domain": "www.aberdeenshire.gov.uk"
+  },
+  {
+    "url": "http://www.adur.gov.uk/",
+    "domain": "www.adur.gov.uk"
+  },
+  {
+    "url": "http://www.allerdale.gov.uk/",
+    "domain": "www.allerdale.gov.uk"
+  },
+  {
+    "url": "http://www.ambervalley.gov.uk/",
+    "domain": "www.ambervalley.gov.uk"
+  },
+  {
+    "url": "http://www.anglesey.gov.uk/",
+    "domain": "www.anglesey.gov.uk"
+  },
+  {
+    "url": "http://www.angus.gov.uk/",
+    "domain": "www.angus.gov.uk"
+  },
+  {
+    "url": "http://www.antrim.gov.uk/",
+    "domain": "www.antrim.gov.uk"
+  },
+  {
+    "url": "http://www.ards-council.gov.uk/",
+    "domain": "www.ards-council.gov.uk"
+  },
+  {
+    "url": "http://www.argyll-bute.gov.uk/",
+    "domain": "www.argyll-bute.gov.uk"
+  },
+  {
+    "url": "http://www.armagh.gov.uk/",
+    "domain": "www.armagh.gov.uk"
+  },
+  {
+    "url": "http://www.arun.gov.uk/",
+    "domain": "www.arun.gov.uk"
+  },
+  {
+    "url": "http://www.ashfield-dc.gov.uk/",
+    "domain": "www.ashfield-dc.gov.uk"
+  },
+  {
+    "url": "http://www.ashford.gov.uk/",
+    "domain": "www.ashford.gov.uk"
+  },
+  {
+    "url": "http://www.aylesburyvaledc.gov.uk/",
+    "domain": "www.aylesburyvaledc.gov.uk"
+  },
+  {
+    "url": "http://www.babergh.gov.uk/",
+    "domain": "www.babergh.gov.uk"
+  },
+  {
+    "url": "http://www.ballymena.gov.uk/",
+    "domain": "www.ballymena.gov.uk"
+  },
+  {
+    "url": "http://www.ballymoney.gov.uk/",
+    "domain": "www.ballymoney.gov.uk"
+  },
+  {
+    "url": "http://www.banbridge.gov.uk/",
+    "domain": "www.banbridge.gov.uk"
+  },
+  {
+    "url": "http://www.barking-dagenham.gov.uk/",
+    "domain": "www.barking-dagenham.gov.uk"
+  },
+  {
+    "url": "http://www.barnet.gov.uk/",
+    "domain": "www.barnet.gov.uk"
+  },
+  {
+    "url": "http://www.barnsley.gov.uk/",
+    "domain": "www.barnsley.gov.uk"
+  },
+  {
+    "url": "http://www.barrowbc.gov.uk/",
+    "domain": "www.barrowbc.gov.uk"
+  },
+  {
+    "url": "http://www.basildon.gov.uk/",
+    "domain": "www.basildon.gov.uk"
+  },
+  {
+    "url": "http://www.basingstoke.gov.uk/",
+    "domain": "www.basingstoke.gov.uk"
+  },
+  {
+    "url": "http://www.bassetlaw.gov.uk/",
+    "domain": "www.bassetlaw.gov.uk"
+  },
+  {
+    "url": "http://www.bathnes.gov.uk/",
+    "domain": "www.bathnes.gov.uk"
+  },
+  {
+    "url": "http://www.bedford.gov.uk/",
+    "domain": "www.bedford.gov.uk"
+  },
+  {
+    "url": "http://www.belfastcity.gov.uk/",
+    "domain": "www.belfastcity.gov.uk"
+  },
+  {
+    "url": "http://www.bexley.gov.uk/",
+    "domain": "www.bexley.gov.uk"
+  },
+  {
+    "url": "http://www.birmingham.gov.uk/",
+    "domain": "www.birmingham.gov.uk"
+  },
+  {
+    "url": "http://www.blaby.gov.uk/",
+    "domain": "www.blaby.gov.uk"
+  },
+  {
+    "url": "http://www.blackburn.gov.uk/",
+    "domain": "www.blackburn.gov.uk"
+  },
+  {
+    "url": "http://www.blackpool.gov.uk/",
+    "domain": "www.blackpool.gov.uk"
+  },
+  {
+    "url": "http://www.blaenau-gwent.gov.uk/",
+    "domain": "www.blaenau-gwent.gov.uk"
+  },
+  {
+    "url": "http://www.bolsover.gov.uk/",
+    "domain": "www.bolsover.gov.uk"
+  },
+  {
+    "url": "http://www.bolton.gov.uk/",
+    "domain": "www.bolton.gov.uk"
+  },
+  {
+    "url": "http://www.boroughofpoole.com/",
+    "domain": "www.boroughofpoole.com"
+  },
+  {
+    "url": "http://www.boston.gov.uk/",
+    "domain": "www.boston.gov.uk"
+  },
+  {
+    "url": "http://www.bournemouth.gov.uk/",
+    "domain": "www.bournemouth.gov.uk"
+  },
+  {
+    "url": "http://www.bracknell-forest.gov.uk/",
+    "domain": "www.bracknell-forest.gov.uk"
+  },
+  {
+    "url": "http://www.bradford.gov.uk/",
+    "domain": "www.bradford.gov.uk"
+  },
+  {
+    "url": "http://www.braintree.gov.uk/",
+    "domain": "www.braintree.gov.uk"
+  },
+  {
+    "url": "http://www.breckland.gov.uk/",
+    "domain": "www.breckland.gov.uk"
+  },
+  {
+    "url": "http://www.brent.gov.uk/",
+    "domain": "www.brent.gov.uk"
+  },
+  {
+    "url": "http://www.brentwood.gov.uk/",
+    "domain": "www.brentwood.gov.uk"
+  },
+  {
+    "url": "http://www.bridgend.gov.uk/",
+    "domain": "www.bridgend.gov.uk"
+  },
+  {
+    "url": "http://www.brighton-hove.gov.uk/",
+    "domain": "www.brighton-hove.gov.uk"
+  },
+  {
+    "url": "http://www.bristol.gov.uk/",
+    "domain": "www.bristol.gov.uk"
+  },
+  {
+    "url": "http://www.broadland.gov.uk/",
+    "domain": "www.broadland.gov.uk"
+  },
+  {
+    "url": "http://www.bromley.gov.uk/",
+    "domain": "www.bromley.gov.uk"
+  },
+  {
+    "url": "http://www.bromsgrove.gov.uk/",
+    "domain": "www.bromsgrove.gov.uk"
+  },
+  {
+    "url": "http://www.broxbourne.gov.uk/",
+    "domain": "www.broxbourne.gov.uk"
+  },
+  {
+    "url": "http://www.broxtowe.gov.uk/",
+    "domain": "www.broxtowe.gov.uk"
+  },
+  {
+    "url": "http://www.buckscc.gov.uk/",
+    "domain": "www.buckscc.gov.uk"
+  },
+  {
+    "url": "http://www.burnley.gov.uk/",
+    "domain": "www.burnley.gov.uk"
+  },
+  {
+    "url": "http://www.bury.gov.uk/",
+    "domain": "www.bury.gov.uk"
+  },
+  {
+    "url": "http://www.caerphilly.gov.uk/",
+    "domain": "www.caerphilly.gov.uk"
+  },
+  {
+    "url": "http://www.calderdale.gov.uk/",
+    "domain": "www.calderdale.gov.uk"
+  },
+  {
+    "url": "http://www.cambridge.gov.uk/",
+    "domain": "www.cambridge.gov.uk"
+  },
+  {
+    "url": "http://www.cambridgeshire.gov.uk/",
+    "domain": "www.cambridgeshire.gov.uk"
+  },
+  {
+    "url": "http://www.camden.gov.uk/",
+    "domain": "www.camden.gov.uk"
+  },
+  {
+    "url": "http://www.cannockchasedc.gov.uk/",
+    "domain": "www.cannockchasedc.gov.uk"
+  },
+  {
+    "url": "http://www.canterbury.gov.uk/",
+    "domain": "www.canterbury.gov.uk"
+  },
+  {
+    "url": "http://www.cardiff.gov.uk/",
+    "domain": "www.cardiff.gov.uk"
+  },
+  {
+    "url": "http://www.carlisle.gov.uk/",
+    "domain": "www.carlisle.gov.uk"
+  },
+  {
+    "url": "http://www.carmarthenshire.gov.uk/",
+    "domain": "www.carmarthenshire.gov.uk"
+  },
+  {
+    "url": "http://www.carrickfergus.org/",
+    "domain": "www.carrickfergus.org"
+  },
+  {
+    "url": "http://www.castlepoint.gov.uk/",
+    "domain": "www.castlepoint.gov.uk"
+  },
+  {
+    "url": "http://www.castlereagh.gov.uk/",
+    "domain": "www.castlereagh.gov.uk"
+  },
+  {
+    "url": "http://www.centralbeds.gov.uk/",
+    "domain": "www.centralbeds.gov.uk"
+  },
+  {
+    "url": "http://www.ceredigion.gov.uk/",
+    "domain": "www.ceredigion.gov.uk"
+  },
+  {
+    "url": "http://www.charnwood.gov.uk/",
+    "domain": "www.charnwood.gov.uk"
+  },
+  {
+    "url": "http://www.chelmsfordbc.gov.uk/",
+    "domain": "www.chelmsfordbc.gov.uk"
+  },
+  {
+    "url": "http://www.cheltenham.gov.uk/",
+    "domain": "www.cheltenham.gov.uk"
+  },
+  {
+    "url": "http://www.cherwell.gov.uk/",
+    "domain": "www.cherwell.gov.uk"
+  },
+  {
+    "url": "http://www.cheshireeast.gov.uk/",
+    "domain": "www.cheshireeast.gov.uk"
+  },
+  {
+    "url": "http://www.cheshirewestandchester.gov.uk/",
+    "domain": "www.cheshirewestandchester.gov.uk"
+  },
+  {
+    "url": "http://www.chesterfield.gov.uk/",
+    "domain": "www.chesterfield.gov.uk"
+  },
+  {
+    "url": "http://www.chichester.gov.uk/",
+    "domain": "www.chichester.gov.uk"
+  },
+  {
+    "url": "http://www.chiltern.gov.uk/",
+    "domain": "www.chiltern.gov.uk"
+  },
+  {
+    "url": "http://www.chorley.gov.uk/",
+    "domain": "www.chorley.gov.uk"
+  },
+  {
+    "url": "http://www.cityoflondon.gov.uk/",
+    "domain": "www.cityoflondon.gov.uk"
+  },
+  {
+    "url": "http://www.clacks.gov.uk/",
+    "domain": "www.clacks.gov.uk"
+  },
+  {
+    "url": "http://www.colchester.gov.uk/",
+    "domain": "www.colchester.gov.uk"
+  },
+  {
+    "url": "http://www.colerainebc.gov.uk/",
+    "domain": "www.colerainebc.gov.uk"
+  },
+  {
+    "url": "http://www.conwy.gov.uk/",
+    "domain": "www.conwy.gov.uk"
+  },
+  {
+    "url": "http://www.cookstown.gov.uk/",
+    "domain": "www.cookstown.gov.uk"
+  },
+  {
+    "url": "http://www.copelandbc.gov.uk/",
+    "domain": "www.copelandbc.gov.uk"
+  },
+  {
+    "url": "http://www.corby.gov.uk/",
+    "domain": "www.corby.gov.uk"
+  },
+  {
+    "url": "http://www.cornwall.gov.uk/",
+    "domain": "www.cornwall.gov.uk"
+  },
+  {
+    "url": "http://www.cotswold.gov.uk/",
+    "domain": "www.cotswold.gov.uk"
+  },
+  {
+    "url": "http://www.coventry.gov.uk/",
+    "domain": "www.coventry.gov.uk"
+  },
+  {
+    "url": "http://www.craigavon.gov.uk/",
+    "domain": "www.craigavon.gov.uk"
+  },
+  {
+    "url": "http://www.cravendc.gov.uk/",
+    "domain": "www.cravendc.gov.uk"
+  },
+  {
+    "url": "http://www.crawley.gov.uk/",
+    "domain": "www.crawley.gov.uk"
+  },
+  {
+    "url": "http://www.croydon.gov.uk/",
+    "domain": "www.croydon.gov.uk"
+  },
+  {
+    "url": "http://www.cumbria.gov.uk/",
+    "domain": "www.cumbria.gov.uk"
+  },
+  {
+    "url": "http://www.dacorum.gov.uk/",
+    "domain": "www.dacorum.gov.uk"
+  },
+  {
+    "url": "http://www.darlington.gov.uk/",
+    "domain": "www.darlington.gov.uk"
+  },
+  {
+    "url": "http://www.dartford.gov.uk/",
+    "domain": "www.dartford.gov.uk"
+  },
+  {
+    "url": "http://www.daventrydc.gov.uk/",
+    "domain": "www.daventrydc.gov.uk"
+  },
+  {
+    "url": "http://www.denbighshire.gov.uk/",
+    "domain": "www.denbighshire.gov.uk"
+  },
+  {
+    "url": "http://www.derby.gov.uk/",
+    "domain": "www.derby.gov.uk"
+  },
+  {
+    "url": "http://www.derbyshire.gov.uk/",
+    "domain": "www.derbyshire.gov.uk"
+  },
+  {
+    "url": "http://www.derbyshiredales.gov.uk/",
+    "domain": "www.derbyshiredales.gov.uk"
+  },
+  {
+    "url": "http://www.derrycity.gov.uk/",
+    "domain": "www.derrycity.gov.uk"
+  },
+  {
+    "url": "http://www.devon.gov.uk/",
+    "domain": "www.devon.gov.uk"
+  },
+  {
+    "url": "http://www.doncaster.gov.uk/",
+    "domain": "www.doncaster.gov.uk"
+  },
+  {
+    "url": "http://www.dorsetforyou.com/",
+    "domain": "www.dorsetforyou.com"
+  },
+  {
+    "url": "http://www.dorsetforyou.com/",
+    "domain": "www.dorsetforyou.com"
+  },
+  {
+    "url": "http://www.dorsetforyou.com/",
+    "domain": "www.dorsetforyou.com"
+  },
+  {
+    "url": "http://www.dorsetforyou.com/",
+    "domain": "www.dorsetforyou.com"
+  },
+  {
+    "url": "http://www.dover.gov.uk/",
+    "domain": "www.dover.gov.uk"
+  },
+  {
+    "url": "http://www.downdc.gov.uk/",
+    "domain": "www.downdc.gov.uk"
+  },
+  {
+    "url": "http://www.dudley.gov.uk/",
+    "domain": "www.dudley.gov.uk"
+  },
+  {
+    "url": "http://www.dumgal.gov.uk/",
+    "domain": "www.dumgal.gov.uk"
+  },
+  {
+    "url": "http://www.dundeecity.gov.uk/",
+    "domain": "www.dundeecity.gov.uk"
+  },
+  {
+    "url": "http://www.dungannon.gov.uk/",
+    "domain": "www.dungannon.gov.uk"
+  },
+  {
+    "url": "http://www.durham.gov.uk/",
+    "domain": "www.durham.gov.uk"
+  },
+  {
+    "url": "http://www.e-lindsey.gov.uk/",
+    "domain": "www.e-lindsey.gov.uk"
+  },
+  {
+    "url": "http://www.ealing.gov.uk/",
+    "domain": "www.ealing.gov.uk"
+  },
+  {
+    "url": "http://www.east-ayrshire.gov.uk/",
+    "domain": "www.east-ayrshire.gov.uk"
+  },
+  {
+    "url": "http://www.east-northamptonshire.gov.uk/",
+    "domain": "www.east-northamptonshire.gov.uk"
+  },
+  {
+    "url": "http://www.eastbourne.gov.uk/",
+    "domain": "www.eastbourne.gov.uk"
+  },
+  {
+    "url": "http://www.eastcambs.gov.uk/",
+    "domain": "www.eastcambs.gov.uk"
+  },
+  {
+    "url": "http://www.eastdevon.gov.uk/",
+    "domain": "www.eastdevon.gov.uk"
+  },
+  {
+    "url": "http://www.eastdunbarton.gov.uk/",
+    "domain": "www.eastdunbarton.gov.uk"
+  },
+  {
+    "url": "http://www.easthants.gov.uk/",
+    "domain": "www.easthants.gov.uk"
+  },
+  {
+    "url": "http://www.eastherts.gov.uk/",
+    "domain": "www.eastherts.gov.uk"
+  },
+  {
+    "url": "http://www.eastleigh.gov.uk/",
+    "domain": "www.eastleigh.gov.uk"
+  },
+  {
+    "url": "http://www.eastlothian.gov.uk/",
+    "domain": "www.eastlothian.gov.uk"
+  },
+  {
+    "url": "http://www.eastrenfrewshire.gov.uk/",
+    "domain": "www.eastrenfrewshire.gov.uk"
+  },
+  {
+    "url": "http://www.eastriding.gov.uk/",
+    "domain": "www.eastriding.gov.uk"
+  },
+  {
+    "url": "http://www.eaststaffsbc.gov.uk/",
+    "domain": "www.eaststaffsbc.gov.uk"
+  },
+  {
+    "url": "http://www.eastsussex.gov.uk/",
+    "domain": "www.eastsussex.gov.uk"
+  },
+  {
+    "url": "http://www.eden.gov.uk/",
+    "domain": "www.eden.gov.uk"
+  },
+  {
+    "url": "http://www.edinburgh.gov.uk/",
+    "domain": "www.edinburgh.gov.uk"
+  },
+  {
+    "url": "http://www.elmbridge.gov.uk/",
+    "domain": "www.elmbridge.gov.uk"
+  },
+  {
+    "url": "http://www.enfield.gov.uk/",
+    "domain": "www.enfield.gov.uk"
+  },
+  {
+    "url": "http://www.eppingforestdc.gov.uk/",
+    "domain": "www.eppingforestdc.gov.uk"
+  },
+  {
+    "url": "http://www.epsom-ewell.gov.uk/",
+    "domain": "www.epsom-ewell.gov.uk"
+  },
+  {
+    "url": "http://www.erewash.gov.uk/",
+    "domain": "www.erewash.gov.uk"
+  },
+  {
+    "url": "http://www.essexcc.gov.uk/",
+    "domain": "www.essexcc.gov.uk"
+  },
+  {
+    "url": "http://www.exeter.gov.uk/",
+    "domain": "www.exeter.gov.uk"
+  },
+  {
+    "url": "http://www.falkirk.gov.uk/",
+    "domain": "www.falkirk.gov.uk"
+  },
+  {
+    "url": "http://www.fareham.gov.uk/",
+    "domain": "www.fareham.gov.uk"
+  },
+  {
+    "url": "http://www.fdean.gov.uk/",
+    "domain": "www.fdean.gov.uk"
+  },
+  {
+    "url": "http://www.fenland.gov.uk/",
+    "domain": "www.fenland.gov.uk"
+  },
+  {
+    "url": "http://www.fermanagh.gov.uk/",
+    "domain": "www.fermanagh.gov.uk"
+  },
+  {
+    "url": "http://www.fife.gov.uk/",
+    "domain": "www.fife.gov.uk"
+  },
+  {
+    "url": "http://www.flintshire.gov.uk/",
+    "domain": "www.flintshire.gov.uk"
+  },
+  {
+    "url": "http://www.forest-heath.gov.uk/",
+    "domain": "www.forest-heath.gov.uk"
+  },
+  {
+    "url": "http://www.fylde.gov.uk/",
+    "domain": "www.fylde.gov.uk"
+  },
+  {
+    "url": "http://www.gateshead.gov.uk/",
+    "domain": "www.gateshead.gov.uk"
+  },
+  {
+    "url": "http://www.gedling.gov.uk/",
+    "domain": "www.gedling.gov.uk"
+  },
+  {
+    "url": "http://www.glasgow.gov.uk/",
+    "domain": "www.glasgow.gov.uk"
+  },
+  {
+    "url": "http://www.gloucester.gov.uk/",
+    "domain": "www.gloucester.gov.uk"
+  },
+  {
+    "url": "http://www.gloucestershire.gov.uk/",
+    "domain": "www.gloucestershire.gov.uk"
+  },
+  {
+    "url": "http://www.gosport.gov.uk/",
+    "domain": "www.gosport.gov.uk"
+  },
+  {
+    "url": "http://www.gravesham.gov.uk/",
+    "domain": "www.gravesham.gov.uk"
+  },
+  {
+    "url": "http://www.great-yarmouth.gov.uk/",
+    "domain": "www.great-yarmouth.gov.uk"
+  },
+  {
+    "url": "http://www.greenwich.gov.uk/",
+    "domain": "www.greenwich.gov.uk"
+  },
+  {
+    "url": "http://www.guildford.gov.uk/",
+    "domain": "www.guildford.gov.uk"
+  },
+  {
+    "url": "http://www.gwynedd.gov.uk/",
+    "domain": "www.gwynedd.gov.uk"
+  },
+  {
+    "url": "http://www.hackney.gov.uk/",
+    "domain": "www.hackney.gov.uk"
+  },
+  {
+    "url": "http://www.halton.gov.uk/",
+    "domain": "www.halton.gov.uk"
+  },
+  {
+    "url": "http://www.hambleton.gov.uk/",
+    "domain": "www.hambleton.gov.uk"
+  },
+  {
+    "url": "http://www.hants.gov.uk/",
+    "domain": "www.hants.gov.uk"
+  },
+  {
+    "url": "http://www.harborough.gov.uk/",
+    "domain": "www.harborough.gov.uk"
+  },
+  {
+    "url": "http://www.haringey.gov.uk/",
+    "domain": "www.haringey.gov.uk"
+  },
+  {
+    "url": "http://www.harlow.gov.uk/",
+    "domain": "www.harlow.gov.uk"
+  },
+  {
+    "url": "http://www.harrogate.gov.uk/",
+    "domain": "www.harrogate.gov.uk"
+  },
+  {
+    "url": "http://www.harrow.gov.uk/",
+    "domain": "www.harrow.gov.uk"
+  },
+  {
+    "url": "http://www.hart.gov.uk/",
+    "domain": "www.hart.gov.uk"
+  },
+  {
+    "url": "http://www.hartlepool.gov.uk/",
+    "domain": "www.hartlepool.gov.uk"
+  },
+  {
+    "url": "http://www.hastings.gov.uk/",
+    "domain": "www.hastings.gov.uk"
+  },
+  {
+    "url": "http://www.havant.gov.uk/",
+    "domain": "www.havant.gov.uk"
+  },
+  {
+    "url": "http://www.havering.gov.uk/",
+    "domain": "www.havering.gov.uk"
+  },
+  {
+    "url": "http://www.herefordshire.gov.uk/",
+    "domain": "www.herefordshire.gov.uk"
+  },
+  {
+    "url": "http://www.hertsdirect.org/",
+    "domain": "www.hertsdirect.org"
+  },
+  {
+    "url": "http://www.hertsmere.gov.uk/",
+    "domain": "www.hertsmere.gov.uk"
+  },
+  {
+    "url": "http://www.highland.gov.uk/",
+    "domain": "www.highland.gov.uk"
+  },
+  {
+    "url": "http://www.highpeak.gov.uk/",
+    "domain": "www.highpeak.gov.uk"
+  },
+  {
+    "url": "http://www.hillingdon.gov.uk/",
+    "domain": "www.hillingdon.gov.uk"
+  },
+  {
+    "url": "http://www.hinckley-bosworth.gov.uk/",
+    "domain": "www.hinckley-bosworth.gov.uk"
+  },
+  {
+    "url": "http://www.horsham.gov.uk/",
+    "domain": "www.horsham.gov.uk"
+  },
+  {
+    "url": "http://www.hounslow.gov.uk/",
+    "domain": "www.hounslow.gov.uk"
+  },
+  {
+    "url": "http://www.hullcc.gov.uk/",
+    "domain": "www.hullcc.gov.uk"
+  },
+  {
+    "url": "http://www.huntsdc.gov.uk/",
+    "domain": "www.huntsdc.gov.uk"
+  },
+  {
+    "url": "http://www.hyndburnbc.gov.uk/",
+    "domain": "www.hyndburnbc.gov.uk"
+  },
+  {
+    "url": "http://www.inverclyde.gov.uk/",
+    "domain": "www.inverclyde.gov.uk"
+  },
+  {
+    "url": "http://www.ipswich.gov.uk/",
+    "domain": "www.ipswich.gov.uk"
+  },
+  {
+    "url": "http://www.islington.gov.uk/",
+    "domain": "www.islington.gov.uk"
+  },
+  {
+    "url": "http://www.iwight.com/",
+    "domain": "www.iwight.com"
+  },
+  {
+    "url": "http://www.kent.gov.uk/",
+    "domain": "www.kent.gov.uk"
+  },
+  {
+    "url": "http://www.kettering.gov.uk/",
+    "domain": "www.kettering.gov.uk"
+  },
+  {
+    "url": "http://www.kingston.gov.uk/",
+    "domain": "www.kingston.gov.uk"
+  },
+  {
+    "url": "http://www.kirklees.gov.uk/",
+    "domain": "www.kirklees.gov.uk"
+  },
+  {
+    "url": "http://www.knowsley.gov.uk/",
+    "domain": "www.knowsley.gov.uk"
+  },
+  {
+    "url": "http://www.lambeth.gov.uk/",
+    "domain": "www.lambeth.gov.uk"
+  },
+  {
+    "url": "http://www.lancashire.gov.uk/",
+    "domain": "www.lancashire.gov.uk"
+  },
+  {
+    "url": "http://www.lancaster.gov.uk/",
+    "domain": "www.lancaster.gov.uk"
+  },
+  {
+    "url": "http://www.larne.gov.uk/",
+    "domain": "www.larne.gov.uk"
+  },
+  {
+    "url": "http://www.lbhf.gov.uk/",
+    "domain": "www.lbhf.gov.uk"
+  },
+  {
+    "url": "http://www.leeds.gov.uk/",
+    "domain": "www.leeds.gov.uk"
+  },
+  {
+    "url": "http://www.leicester.gov.uk/",
+    "domain": "www.leicester.gov.uk"
+  },
+  {
+    "url": "http://www.leics.gov.uk/",
+    "domain": "www.leics.gov.uk"
+  },
+  {
+    "url": "http://www.lewes.gov.uk/",
+    "domain": "www.lewes.gov.uk"
+  },
+  {
+    "url": "http://www.lewisham.gov.uk/",
+    "domain": "www.lewisham.gov.uk"
+  },
+  {
+    "url": "http://www.lichfielddc.gov.uk/",
+    "domain": "www.lichfielddc.gov.uk"
+  },
+  {
+    "url": "http://www.limavady.gov.uk/",
+    "domain": "www.limavady.gov.uk"
+  },
+  {
+    "url": "http://www.lincoln.gov.uk/",
+    "domain": "www.lincoln.gov.uk"
+  },
+  {
+    "url": "http://www.lincolnshire.gov.uk/",
+    "domain": "www.lincolnshire.gov.uk"
+  },
+  {
+    "url": "http://www.lisburn.gov.uk/",
+    "domain": "www.lisburn.gov.uk"
+  },
+  {
+    "url": "http://www.liverpool.gov.uk/",
+    "domain": "www.liverpool.gov.uk"
+  },
+  {
+    "url": "http://www.london.gov.uk/",
+    "domain": "www.london.gov.uk"
+  },
+  {
+    "url": "http://www.luton.gov.uk/",
+    "domain": "www.luton.gov.uk"
+  },
+  {
+    "url": "http://www.magherafelt.gov.uk/",
+    "domain": "www.magherafelt.gov.uk"
+  },
+  {
+    "url": "http://www.maidstone.gov.uk/",
+    "domain": "www.maidstone.gov.uk"
+  },
+  {
+    "url": "http://www.maldon.gov.uk/",
+    "domain": "www.maldon.gov.uk"
+  },
+  {
+    "url": "http://www.malvernhills.gov.uk/",
+    "domain": "www.malvernhills.gov.uk"
+  },
+  {
+    "url": "http://www.manchester.gov.uk/",
+    "domain": "www.manchester.gov.uk"
+  },
+  {
+    "url": "http://www.mansfield.gov.uk/",
+    "domain": "www.mansfield.gov.uk"
+  },
+  {
+    "url": "http://www.medway.gov.uk/",
+    "domain": "www.medway.gov.uk"
+  },
+  {
+    "url": "http://www.melton.gov.uk/",
+    "domain": "www.melton.gov.uk"
+  },
+  {
+    "url": "http://www.mendip.gov.uk/",
+    "domain": "www.mendip.gov.uk"
+  },
+  {
+    "url": "http://www.merthyr.gov.uk/",
+    "domain": "www.merthyr.gov.uk"
+  },
+  {
+    "url": "http://www.merton.gov.uk/",
+    "domain": "www.merton.gov.uk"
+  },
+  {
+    "url": "http://www.middevon.gov.uk/",
+    "domain": "www.middevon.gov.uk"
+  },
+  {
+    "url": "http://www.middlesbrough.gov.uk/",
+    "domain": "www.middlesbrough.gov.uk"
+  },
+  {
+    "url": "http://www.midlothian.gov.uk/",
+    "domain": "www.midlothian.gov.uk"
+  },
+  {
+    "url": "http://www.midsuffolk.gov.uk/",
+    "domain": "www.midsuffolk.gov.uk"
+  },
+  {
+    "url": "http://www.midsussex.gov.uk/",
+    "domain": "www.midsussex.gov.uk"
+  },
+  {
+    "url": "http://www.milton-keynes.gov.uk/",
+    "domain": "www.milton-keynes.gov.uk"
+  },
+  {
+    "url": "http://www.molevalley.gov.uk/",
+    "domain": "www.molevalley.gov.uk"
+  },
+  {
+    "url": "http://www.monmouthshire.gov.uk/",
+    "domain": "www.monmouthshire.gov.uk"
+  },
+  {
+    "url": "http://www.moray.gov.uk/",
+    "domain": "www.moray.gov.uk"
+  },
+  {
+    "url": "http://www.moyle-council.org/",
+    "domain": "www.moyle-council.org"
+  },
+  {
+    "url": "http://www.n-kesteven.gov.uk/",
+    "domain": "www.n-kesteven.gov.uk"
+  },
+  {
+    "url": "http://www.n-somerset.gov.uk/",
+    "domain": "www.n-somerset.gov.uk"
+  },
+  {
+    "url": "http://www.ne-derbyshire.gov.uk/",
+    "domain": "www.ne-derbyshire.gov.uk"
+  },
+  {
+    "url": "http://www.neath-porttalbot.gov.uk/",
+    "domain": "www.neath-porttalbot.gov.uk"
+  },
+  {
+    "url": "http://www.nelincs.gov.uk/",
+    "domain": "www.nelincs.gov.uk"
+  },
+  {
+    "url": "http://www.newark-sherwooddc.gov.uk/",
+    "domain": "www.newark-sherwooddc.gov.uk"
+  },
+  {
+    "url": "http://www.newcastle-staffs.gov.uk/",
+    "domain": "www.newcastle-staffs.gov.uk"
+  },
+  {
+    "url": "http://www.newcastle.gov.uk/",
+    "domain": "www.newcastle.gov.uk"
+  },
+  {
+    "url": "http://www.newforest.gov.uk/",
+    "domain": "www.newforest.gov.uk"
+  },
+  {
+    "url": "http://www.newham.gov.uk/",
+    "domain": "www.newham.gov.uk"
+  },
+  {
+    "url": "http://www.newport.gov.uk/",
+    "domain": "www.newport.gov.uk"
+  },
+  {
+    "url": "http://www.newryandmourne.gov.uk/",
+    "domain": "www.newryandmourne.gov.uk"
+  },
+  {
+    "url": "http://www.newtownabbey.gov.uk/",
+    "domain": "www.newtownabbey.gov.uk"
+  },
+  {
+    "url": "http://www.norfolk.gov.uk/",
+    "domain": "www.norfolk.gov.uk"
+  },
+  {
+    "url": "http://www.north-ayrshire.gov.uk/",
+    "domain": "www.north-ayrshire.gov.uk"
+  },
+  {
+    "url": "http://www.north-dorset.gov.uk/",
+    "domain": "www.north-dorset.gov.uk"
+  },
+  {
+    "url": "http://www.north-herts.gov.uk/",
+    "domain": "www.north-herts.gov.uk"
+  },
+  {
+    "url": "http://www.northampton.gov.uk/",
+    "domain": "www.northampton.gov.uk"
+  },
+  {
+    "url": "http://www.northamptonshire.gov.uk/",
+    "domain": "www.northamptonshire.gov.uk"
+  },
+  {
+    "url": "http://www.northdevon.gov.uk/",
+    "domain": "www.northdevon.gov.uk"
+  },
+  {
+    "url": "http://www.northdown.gov.uk/",
+    "domain": "www.northdown.gov.uk"
+  },
+  {
+    "url": "http://www.northlan.gov.uk/",
+    "domain": "www.northlan.gov.uk"
+  },
+  {
+    "url": "http://www.northlincs.gov.uk/",
+    "domain": "www.northlincs.gov.uk"
+  },
+  {
+    "url": "http://www.northnorfolk.org/",
+    "domain": "www.northnorfolk.org"
+  },
+  {
+    "url": "http://www.northtyneside.gov.uk/",
+    "domain": "www.northtyneside.gov.uk"
+  },
+  {
+    "url": "http://www.northumberland.gov.uk/",
+    "domain": "www.northumberland.gov.uk"
+  },
+  {
+    "url": "http://www.northwarks.gov.uk/",
+    "domain": "www.northwarks.gov.uk"
+  },
+  {
+    "url": "http://www.northyorks.gov.uk/",
+    "domain": "www.northyorks.gov.uk"
+  },
+  {
+    "url": "http://www.norwich.gov.uk/",
+    "domain": "www.norwich.gov.uk"
+  },
+  {
+    "url": "http://www.nottinghamcity.gov.uk/",
+    "domain": "www.nottinghamcity.gov.uk"
+  },
+  {
+    "url": "http://www.nottinghamshire.gov.uk/",
+    "domain": "www.nottinghamshire.gov.uk"
+  },
+  {
+    "url": "http://www.nuneatonandbedworth.gov.uk/",
+    "domain": "www.nuneatonandbedworth.gov.uk"
+  },
+  {
+    "url": "http://www.nwleicsdc.gov.uk/",
+    "domain": "www.nwleicsdc.gov.uk"
+  },
+  {
+    "url": "http://www.oadby-wigston.gov.uk/",
+    "domain": "www.oadby-wigston.gov.uk"
+  },
+  {
+    "url": "http://www.oldham.gov.uk/",
+    "domain": "www.oldham.gov.uk"
+  },
+  {
+    "url": "http://www.omagh.gov.uk/",
+    "domain": "www.omagh.gov.uk"
+  },
+  {
+    "url": "http://www.orkney.gov.uk/",
+    "domain": "www.orkney.gov.uk"
+  },
+  {
+    "url": "http://www.oxford.gov.uk/",
+    "domain": "www.oxford.gov.uk"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/",
+    "domain": "www.oxfordshire.gov.uk"
+  },
+  {
+    "url": "http://www.pembrokeshire.gov.uk/",
+    "domain": "www.pembrokeshire.gov.uk"
+  },
+  {
+    "url": "http://www.pendle.gov.uk/",
+    "domain": "www.pendle.gov.uk"
+  },
+  {
+    "url": "http://www.peterborough.gov.uk/",
+    "domain": "www.peterborough.gov.uk"
+  },
+  {
+    "url": "http://www.pkc.gov.uk/",
+    "domain": "www.pkc.gov.uk"
+  },
+  {
+    "url": "http://www.plymouth.gov.uk/",
+    "domain": "www.plymouth.gov.uk"
+  },
+  {
+    "url": "http://www.portsmouth.gov.uk/",
+    "domain": "www.portsmouth.gov.uk"
+  },
+  {
+    "url": "http://www.powys.gov.uk/",
+    "domain": "www.powys.gov.uk"
+  },
+  {
+    "url": "http://www.preston.gov.uk/",
+    "domain": "www.preston.gov.uk"
+  },
+  {
+    "url": "http://www.purbeck.gov.uk/",
+    "domain": "www.purbeck.gov.uk"
+  },
+  {
+    "url": "http://www.rbkc.gov.uk/",
+    "domain": "www.rbkc.gov.uk"
+  },
+  {
+    "url": "http://www.rbwm.gov.uk/",
+    "domain": "www.rbwm.gov.uk"
+  },
+  {
+    "url": "http://www.reading.gov.uk/",
+    "domain": "www.reading.gov.uk"
+  },
+  {
+    "url": "http://www.redbridge.gov.uk/",
+    "domain": "www.redbridge.gov.uk"
+  },
+  {
+    "url": "http://www.redcar-cleveland.gov.uk/",
+    "domain": "www.redcar-cleveland.gov.uk"
+  },
+  {
+    "url": "http://www.redditchbc.gov.uk/",
+    "domain": "www.redditchbc.gov.uk"
+  },
+  {
+    "url": "http://www.reigate-banstead.gov.uk/",
+    "domain": "www.reigate-banstead.gov.uk"
+  },
+  {
+    "url": "http://www.renfrewshire.gov.uk/",
+    "domain": "www.renfrewshire.gov.uk"
+  },
+  {
+    "url": "http://www.rhondda-cynon-taf.gov.uk/",
+    "domain": "www.rhondda-cynon-taf.gov.uk"
+  },
+  {
+    "url": "http://www.ribblevalley.gov.uk/",
+    "domain": "www.ribblevalley.gov.uk"
+  },
+  {
+    "url": "http://www.richmond.gov.uk/",
+    "domain": "www.richmond.gov.uk"
+  },
+  {
+    "url": "http://www.richmondshire.gov.uk/",
+    "domain": "www.richmondshire.gov.uk"
+  },
+  {
+    "url": "http://www.rochdale.gov.uk/",
+    "domain": "www.rochdale.gov.uk"
+  },
+  {
+    "url": "http://www.rochford.gov.uk/",
+    "domain": "www.rochford.gov.uk"
+  },
+  {
+    "url": "http://www.rossendale.gov.uk/",
+    "domain": "www.rossendale.gov.uk"
+  },
+  {
+    "url": "http://www.rother.gov.uk/",
+    "domain": "www.rother.gov.uk"
+  },
+  {
+    "url": "http://www.rotherham.gov.uk/",
+    "domain": "www.rotherham.gov.uk"
+  },
+  {
+    "url": "http://www.rugby.gov.uk/",
+    "domain": "www.rugby.gov.uk"
+  },
+  {
+    "url": "http://www.runnymede.gov.uk/",
+    "domain": "www.runnymede.gov.uk"
+  },
+  {
+    "url": "http://www.rushcliffe.gov.uk/",
+    "domain": "www.rushcliffe.gov.uk"
+  },
+  {
+    "url": "http://www.rushmoor.gov.uk/",
+    "domain": "www.rushmoor.gov.uk"
+  },
+  {
+    "url": "http://www.rutland.gov.uk/",
+    "domain": "www.rutland.gov.uk"
+  },
+  {
+    "url": "http://www.ryedale.gov.uk/",
+    "domain": "www.ryedale.gov.uk"
+  },
+  {
+    "url": "http://www.salford.gov.uk/",
+    "domain": "www.salford.gov.uk"
+  },
+  {
+    "url": "http://www.sandwell.gov.uk/",
+    "domain": "www.sandwell.gov.uk"
+  },
+  {
+    "url": "http://www.scambs.gov.uk/",
+    "domain": "www.scambs.gov.uk"
+  },
+  {
+    "url": "http://www.scarborough.gov.uk/",
+    "domain": "www.scarborough.gov.uk"
+  },
+  {
+    "url": "http://www.scilly.gov.uk/",
+    "domain": "www.scilly.gov.uk"
+  },
+  {
+    "url": "http://www.scotborders.gov.uk/",
+    "domain": "www.scotborders.gov.uk"
+  },
+  {
+    "url": "http://www.sedgemoor.gov.uk/",
+    "domain": "www.sedgemoor.gov.uk"
+  },
+  {
+    "url": "http://www.sefton.gov.uk/",
+    "domain": "www.sefton.gov.uk"
+  },
+  {
+    "url": "http://www.selby.gov.uk/",
+    "domain": "www.selby.gov.uk"
+  },
+  {
+    "url": "http://www.sevenoaks.gov.uk/",
+    "domain": "www.sevenoaks.gov.uk"
+  },
+  {
+    "url": "http://www.sheffield.gov.uk/",
+    "domain": "www.sheffield.gov.uk"
+  },
+  {
+    "url": "http://www.shepway.gov.uk/",
+    "domain": "www.shepway.gov.uk"
+  },
+  {
+    "url": "http://www.shetland.gov.uk/",
+    "domain": "www.shetland.gov.uk"
+  },
+  {
+    "url": "http://www.sholland.gov.uk/",
+    "domain": "www.sholland.gov.uk"
+  },
+  {
+    "url": "http://www.shropshire.gov.uk/",
+    "domain": "www.shropshire.gov.uk"
+  },
+  {
+    "url": "http://www.slough.gov.uk/",
+    "domain": "www.slough.gov.uk"
+  },
+  {
+    "url": "http://www.solihull.gov.uk/",
+    "domain": "www.solihull.gov.uk"
+  },
+  {
+    "url": "http://www.somerset.gov.uk/",
+    "domain": "www.somerset.gov.uk"
+  },
+  {
+    "url": "http://www.south-ayrshire.gov.uk/",
+    "domain": "www.south-ayrshire.gov.uk"
+  },
+  {
+    "url": "http://www.south-derbys.gov.uk/",
+    "domain": "www.south-derbys.gov.uk"
+  },
+  {
+    "url": "http://www.south-norfolk.gov.uk/",
+    "domain": "www.south-norfolk.gov.uk"
+  },
+  {
+    "url": "http://www.southampton.gov.uk/",
+    "domain": "www.southampton.gov.uk"
+  },
+  {
+    "url": "http://www.southbucks.gov.uk/",
+    "domain": "www.southbucks.gov.uk"
+  },
+  {
+    "url": "http://www.southend.gov.uk/",
+    "domain": "www.southend.gov.uk"
+  },
+  {
+    "url": "http://www.southglos.gov.uk/",
+    "domain": "www.southglos.gov.uk"
+  },
+  {
+    "url": "http://www.southhams.gov.uk/",
+    "domain": "www.southhams.gov.uk"
+  },
+  {
+    "url": "http://www.southkesteven.gov.uk/",
+    "domain": "www.southkesteven.gov.uk"
+  },
+  {
+    "url": "http://www.southlakeland.gov.uk/",
+    "domain": "www.southlakeland.gov.uk"
+  },
+  {
+    "url": "http://www.southlanarkshire.gov.uk/",
+    "domain": "www.southlanarkshire.gov.uk"
+  },
+  {
+    "url": "http://www.southnorthants.gov.uk/",
+    "domain": "www.southnorthants.gov.uk"
+  },
+  {
+    "url": "http://www.southoxon.gov.uk/",
+    "domain": "www.southoxon.gov.uk"
+  },
+  {
+    "url": "http://www.southribble.gov.uk/",
+    "domain": "www.southribble.gov.uk"
+  },
+  {
+    "url": "http://www.southsomerset.gov.uk/",
+    "domain": "www.southsomerset.gov.uk"
+  },
+  {
+    "url": "http://www.southtyneside.info/",
+    "domain": "www.southtyneside.info"
+  },
+  {
+    "url": "http://www.southwark.gov.uk/",
+    "domain": "www.southwark.gov.uk"
+  },
+  {
+    "url": "http://www.spelthorne.gov.uk/",
+    "domain": "www.spelthorne.gov.uk"
+  },
+  {
+    "url": "http://www.sstaffs.gov.uk/",
+    "domain": "www.sstaffs.gov.uk"
+  },
+  {
+    "url": "http://www.staffordbc.gov.uk/",
+    "domain": "www.staffordbc.gov.uk"
+  },
+  {
+    "url": "http://www.staffordshire.gov.uk/",
+    "domain": "www.staffordshire.gov.uk"
+  },
+  {
+    "url": "http://www.staffsmoorlands.gov.uk/",
+    "domain": "www.staffsmoorlands.gov.uk"
+  },
+  {
+    "url": "http://www.stalbans.gov.uk/",
+    "domain": "www.stalbans.gov.uk"
+  },
+  {
+    "url": "http://www.stedmundsbury.gov.uk/",
+    "domain": "www.stedmundsbury.gov.uk"
+  },
+  {
+    "url": "http://www.stevenage.gov.uk/",
+    "domain": "www.stevenage.gov.uk"
+  },
+  {
+    "url": "http://www.sthelens.gov.uk/",
+    "domain": "www.sthelens.gov.uk"
+  },
+  {
+    "url": "http://www.stirling.gov.uk/",
+    "domain": "www.stirling.gov.uk"
+  },
+  {
+    "url": "http://www.stockport.gov.uk/",
+    "domain": "www.stockport.gov.uk"
+  },
+  {
+    "url": "http://www.stockton.gov.uk/",
+    "domain": "www.stockton.gov.uk"
+  },
+  {
+    "url": "http://www.stoke.gov.uk/",
+    "domain": "www.stoke.gov.uk"
+  },
+  {
+    "url": "http://www.strabanedc.org.uk/",
+    "domain": "www.strabanedc.org.uk"
+  },
+  {
+    "url": "http://www.stratford.gov.uk/",
+    "domain": "www.stratford.gov.uk"
+  },
+  {
+    "url": "http://www.stroud.gov.uk/",
+    "domain": "www.stroud.gov.uk"
+  },
+  {
+    "url": "http://www.suffolk.gov.uk/",
+    "domain": "www.suffolk.gov.uk"
+  },
+  {
+    "url": "http://www.suffolkcoastal.gov.uk/",
+    "domain": "www.suffolkcoastal.gov.uk"
+  },
+  {
+    "url": "http://www.sunderland.gov.uk/",
+    "domain": "www.sunderland.gov.uk"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/",
+    "domain": "www.surreycc.gov.uk"
+  },
+  {
+    "url": "http://www.surreyheath.gov.uk/",
+    "domain": "www.surreyheath.gov.uk"
+  },
+  {
+    "url": "http://www.sutton.gov.uk/",
+    "domain": "www.sutton.gov.uk"
+  },
+  {
+    "url": "http://www.swale.gov.uk/",
+    "domain": "www.swale.gov.uk"
+  },
+  {
+    "url": "http://www.swansea.gov.uk/",
+    "domain": "www.swansea.gov.uk"
+  },
+  {
+    "url": "http://www.swindon.gov.uk/",
+    "domain": "www.swindon.gov.uk"
+  },
+  {
+    "url": "http://www.tameside.gov.uk/",
+    "domain": "www.tameside.gov.uk"
+  },
+  {
+    "url": "http://www.tamworth.gov.uk/",
+    "domain": "www.tamworth.gov.uk"
+  },
+  {
+    "url": "http://www.tandridge.gov.uk/",
+    "domain": "www.tandridge.gov.uk"
+  },
+  {
+    "url": "http://www.tauntondeane.gov.uk/",
+    "domain": "www.tauntondeane.gov.uk"
+  },
+  {
+    "url": "http://www.teignbridge.gov.uk/",
+    "domain": "www.teignbridge.gov.uk"
+  },
+  {
+    "url": "http://www.telford.gov.uk/",
+    "domain": "www.telford.gov.uk"
+  },
+  {
+    "url": "http://www.tendringdc.gov.uk/",
+    "domain": "www.tendringdc.gov.uk"
+  },
+  {
+    "url": "http://www.testvalley.gov.uk/",
+    "domain": "www.testvalley.gov.uk"
+  },
+  {
+    "url": "http://www.tewkesburybc.gov.uk/",
+    "domain": "www.tewkesburybc.gov.uk"
+  },
+  {
+    "url": "http://www.thanet.gov.uk/",
+    "domain": "www.thanet.gov.uk"
+  },
+  {
+    "url": "http://www.threerivers.gov.uk/",
+    "domain": "www.threerivers.gov.uk"
+  },
+  {
+    "url": "http://www.thurrock.gov.uk/",
+    "domain": "www.thurrock.gov.uk"
+  },
+  {
+    "url": "http://www.tmbc.gov.uk/",
+    "domain": "www.tmbc.gov.uk"
+  },
+  {
+    "url": "http://www.torbay.gov.uk/",
+    "domain": "www.torbay.gov.uk"
+  },
+  {
+    "url": "http://www.torfaen.gov.uk/",
+    "domain": "www.torfaen.gov.uk"
+  },
+  {
+    "url": "http://www.torridge.gov.uk/",
+    "domain": "www.torridge.gov.uk"
+  },
+  {
+    "url": "http://www.towerhamlets.gov.uk/",
+    "domain": "www.towerhamlets.gov.uk"
+  },
+  {
+    "url": "http://www.trafford.gov.uk/",
+    "domain": "www.trafford.gov.uk"
+  },
+  {
+    "url": "http://www.tunbridgewells.gov.uk/",
+    "domain": "www.tunbridgewells.gov.uk"
+  },
+  {
+    "url": "http://www.uttlesford.gov.uk/",
+    "domain": "www.uttlesford.gov.uk"
+  },
+  {
+    "url": "http://www.valeofglamorgan.gov.uk/",
+    "domain": "www.valeofglamorgan.gov.uk"
+  },
+  {
+    "url": "http://www.w-isles.gov.uk/",
+    "domain": "www.w-isles.gov.uk"
+  },
+  {
+    "url": "http://www.wakefield.gov.uk/",
+    "domain": "www.wakefield.gov.uk"
+  },
+  {
+    "url": "http://www.walsall.gov.uk/",
+    "domain": "www.walsall.gov.uk"
+  },
+  {
+    "url": "http://www.walthamforest.gov.uk/",
+    "domain": "www.walthamforest.gov.uk"
+  },
+  {
+    "url": "http://www.wandsworth.gov.uk/",
+    "domain": "www.wandsworth.gov.uk"
+  },
+  {
+    "url": "http://www.warrington.gov.uk/",
+    "domain": "www.warrington.gov.uk"
+  },
+  {
+    "url": "http://www.warwickdc.gov.uk/",
+    "domain": "www.warwickdc.gov.uk"
+  },
+  {
+    "url": "http://www.warwickshire.gov.uk/",
+    "domain": "www.warwickshire.gov.uk"
+  },
+  {
+    "url": "http://www.watford.gov.uk/",
+    "domain": "www.watford.gov.uk"
+  },
+  {
+    "url": "http://www.waveney.gov.uk/",
+    "domain": "www.waveney.gov.uk"
+  },
+  {
+    "url": "http://www.waverley.gov.uk/",
+    "domain": "www.waverley.gov.uk"
+  },
+  {
+    "url": "http://www.wealden.gov.uk/",
+    "domain": "www.wealden.gov.uk"
+  },
+  {
+    "url": "http://www.welhat.gov.uk/",
+    "domain": "www.welhat.gov.uk"
+  },
+  {
+    "url": "http://www.wellingborough.gov.uk/",
+    "domain": "www.wellingborough.gov.uk"
+  },
+  {
+    "url": "http://www.west-dunbarton.gov.uk/",
+    "domain": "www.west-dunbarton.gov.uk"
+  },
+  {
+    "url": "http://www.west-lindsey.gov.uk/",
+    "domain": "www.west-lindsey.gov.uk"
+  },
+  {
+    "url": "http://www.west-norfolk.gov.uk/",
+    "domain": "www.west-norfolk.gov.uk"
+  },
+  {
+    "url": "http://www.westberks.gov.uk/",
+    "domain": "www.westberks.gov.uk"
+  },
+  {
+    "url": "http://www.westdevon.gov.uk/",
+    "domain": "www.westdevon.gov.uk"
+  },
+  {
+    "url": "http://www.westlancsdc.gov.uk/",
+    "domain": "www.westlancsdc.gov.uk"
+  },
+  {
+    "url": "http://www.westlothian.gov.uk/",
+    "domain": "www.westlothian.gov.uk"
+  },
+  {
+    "url": "http://www.westminster.gov.uk/",
+    "domain": "www.westminster.gov.uk"
+  },
+  {
+    "url": "http://www.westoxon.gov.uk/",
+    "domain": "www.westoxon.gov.uk"
+  },
+  {
+    "url": "http://www.westsomersetonline.gov.uk/",
+    "domain": "www.westsomersetonline.gov.uk"
+  },
+  {
+    "url": "http://www.westsussex.gov.uk/",
+    "domain": "www.westsussex.gov.uk"
+  },
+  {
+    "url": "http://www.weymouth.gov.uk/",
+    "domain": "www.weymouth.gov.uk"
+  },
+  {
+    "url": "http://www.whitehorsedc.gov.uk/",
+    "domain": "www.whitehorsedc.gov.uk"
+  },
+  {
+    "url": "http://www.wigan.gov.uk/",
+    "domain": "www.wigan.gov.uk"
+  },
+  {
+    "url": "http://www.wiltshire.gov.uk/",
+    "domain": "www.wiltshire.gov.uk"
+  },
+  {
+    "url": "http://www.winchester.gov.uk/",
+    "domain": "www.winchester.gov.uk"
+  },
+  {
+    "url": "http://www.wirral.gov.uk/",
+    "domain": "www.wirral.gov.uk"
+  },
+  {
+    "url": "http://www.woking.gov.uk/",
+    "domain": "www.woking.gov.uk"
+  },
+  {
+    "url": "http://www.wokingham.gov.uk/",
+    "domain": "www.wokingham.gov.uk"
+  },
+  {
+    "url": "http://www.wolverhampton.gov.uk/",
+    "domain": "www.wolverhampton.gov.uk"
+  },
+  {
+    "url": "http://www.worcester.gov.uk/",
+    "domain": "www.worcester.gov.uk"
+  },
+  {
+    "url": "http://www.worcestershire.gov.uk/",
+    "domain": "www.worcestershire.gov.uk"
+  },
+  {
+    "url": "http://www.worthing.gov.uk/",
+    "domain": "www.worthing.gov.uk"
+  },
+  {
+    "url": "http://www.wrexham.gov.uk/",
+    "domain": "www.wrexham.gov.uk"
+  },
+  {
+    "url": "http://www.wychavon.gov.uk/",
+    "domain": "www.wychavon.gov.uk"
+  },
+  {
+    "url": "http://www.wycombe.gov.uk/",
+    "domain": "www.wycombe.gov.uk"
+  },
+  {
+    "url": "http://www.wyrebc.gov.uk/",
+    "domain": "www.wyrebc.gov.uk"
+  },
+  {
+    "url": "http://www.wyreforestdc.gov.uk/",
+    "domain": "www.wyreforestdc.gov.uk"
+  },
+  {
+    "url": "http://www.york.gov.uk/",
+    "domain": "www.york.gov.uk"
+  }
+]
